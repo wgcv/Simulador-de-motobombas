@@ -1,0 +1,32 @@
+﻿<flash_project name="qrrival" version="1">
+	<project_file path="./qrrival.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./mx/transitions/OnEnterFrameBeacon.as" filetype="as"/>
+	<project_file path="./mx/transitions/BroadcasterMX.as" filetype="as"/>
+	<project_file path="./mx/transitions/Tween.as" filetype="as"/>
+	<project_file path="./mx/transitions/easing/Regular.as" filetype="as"/>
+	<project_file path="./mx/core/UIObject.as" filetype="as"/>
+	<project_file path="./mx/skins/SkinElement.as" filetype="as"/>
+	<project_file path="./mx/styles/CSSTextStyles.as" filetype="as"/>
+	<project_file path="./mx/styles/CSSStyleDeclaration.as" filetype="as"/>
+	<project_file path="./mx/styles/StyleManager.as" filetype="as"/>
+	<project_file path="./mx/core/UIComponent.as" filetype="as"/>
+	<project_file path="./mx/events/EventDispatcher.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISBase.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISProxyListener.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISDigits.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISAlphaNum.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISRoundDial.as" filetype="as"/>
+	<project_file path="./mx/fmxis/FMXISRoundDialSmooth.as" filetype="as"/>
+	<project_file path="./mx/events/UIEventDispatcher.as" filetype="as"/>
+	<project_file path="./mx/core/ext/UIObjectExtensions.as" filetype="as"/>
+	<project_file path="./mx/skins/ColoredSkinElement.as" filetype="as"/>
+	<project_file path="./mx/skins/halo/Defaults.as" filetype="as"/>
+	<project_file path="./mx/skins/halo/FocusRect.as" filetype="as"/>
+	<project_file path="./mx/managers/DepthManager.as" filetype="as"/>
+	<project_file path="./mx/managers/FocusManager.as" filetype="as"/>
+	<project_file path="./mx/controls/SimpleButton.as" filetype="as"/>
+	<project_file path="./mx/managers/SystemManager.as" filetype="as"/>
+	<project_file path="./mx/managers/OverlappedWindows.as" filetype="as"/>
+	<project_file path="./mx/core/ext/UIComponentExtensions.as" filetype="as"/>
+	<project_file path="./mx/styles/CSSSetStyle.as" filetype="as"/>
+</flash_project>
